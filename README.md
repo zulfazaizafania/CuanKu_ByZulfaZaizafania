@@ -1,7 +1,7 @@
 
 
 # Identitas
-Nama : Zulfa Zaizafania
+Nama : Zulfa Zaizafania 
 NIM : 12030121140335
 Mata Kuliah_Kelas : Pengkodean dan Pemrograman_Kelas E
 Anggota Kelompok:
